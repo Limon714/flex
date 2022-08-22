@@ -39,9 +39,7 @@
 }
 
 @media all and(min-width:750px){
-   .main{
-        flex: 3;
-    }
+   
     .left{
         order: 1;
     }
